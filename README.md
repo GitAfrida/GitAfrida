@@ -11,8 +11,7 @@
 - Any coding challenges or hackathons for students
 - 📫 How to reach me: [e-mail : afrida.ada642@gmail.com]
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: being a game developer wasn't always what i had in mind but
--  they say that intrest don't rise in a month not it takes a minute 
+- ⚡ Fun fact:Being a game developer wasn't always my plan but like some legends have said "Interest isn't something you can gain in an hour, but it doesn't take a lifetime either." If that's true, then it certainly applies to me.
 
 <!---
 GitAfrida/GitAfrida is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
