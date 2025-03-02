@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @GitAfrida
 - 🌱 I’m currently learning
 - Game development basics
-- Programming in C/C++
+- Programming in python and C#
 - Unity and Unreal Engine fundamentals
 - 👀 I’m intrested in - Game Development
 - Programming and Coding
