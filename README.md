@@ -1,5 +1,4 @@
-# 💫 About Me:
-🔭 I’m currently working on<br>Building games in Unity (C#) and improving game feel, <br>UI flow, and performance step by step<br><br>👯 I’m looking to collaborate on<br>Indie game projects, UI/UX improvements for apps, <br>or anything where I can learn by actually building<br><br>🤝 I’m looking for help with<br>Writing cleaner, scalable code and understanding <br>real-world project structure (not just tutorials)<br><br>🌱 I’m currently learning<br>Game design principles, better UI/UX thinking in Figma, <br>and Python for problem-solving and automation<br><br>💬 Ask me about<br>Unity basics, simple game mechanics, Figma prototypes, <br>or beginner-friendly Python projects<br><br>⚡ Fun fact<br> Passionate about everything and can be an improvement.
+<br> Passionate about everything and can be an improvement.
 
 
 ## 🌐 Socials:
