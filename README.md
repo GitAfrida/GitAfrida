@@ -6,7 +6,7 @@ Passionate about everything and can be an improvement.
 
 # 💻 Tech Stack:
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Gimp](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Unity](https://img.shields.io/badge/Unity-%23121011.svg?style=for-the-badge&logo=Unity&logoColor=white) ![Rive](https://img.shields.io/badge/Rive-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Unreal](https://img.shields.io/badge/Unreal-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Unreal Engine](https://img.shields.io/badge/Unreal-Engine-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
  
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=GitAfrida&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
